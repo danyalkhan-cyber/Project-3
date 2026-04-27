@@ -1,6 +1,7 @@
 📄 File Descriptions
 📌 README.md
 
+
 Main project overview:
 
 Project intro
@@ -28,6 +29,8 @@ Virtual lab setup steps
 Target machine configuration
 Network isolation details
 📌 reports/
+
+
 enumeration-report.md
 Full practical report
 Commands used
