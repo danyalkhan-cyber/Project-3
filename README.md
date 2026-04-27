@@ -1,4 +1,5 @@
 📄 File Descriptions
+
 📌 README.md
 
 
@@ -11,7 +12,8 @@ Key findings
 Disclaimer
 
 
-📌 docs/
+📌 docs
+
 netbios-overview.md
 What is NetBIOS
 Ports (137, 138, 139)
@@ -28,7 +30,9 @@ lab-setup.md
 Virtual lab setup steps
 Target machine configuration
 Network isolation details
+
 📌 reports/
+
 
 
 enumeration-report.md
